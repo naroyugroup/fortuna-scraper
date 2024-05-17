@@ -1,0 +1,899 @@
+{
+    "matches": [
+        {
+            "title": "Liverpool, Barcelona -  vyhraj\u00ed sv\u00e9 z\u00e1pasy a v ka\u017ed\u00e9m z\u00e1pasu padnou alespo\u0148 t\u0159i g\u00f3ly",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "5.55"
+            }
+        },
+        {
+            "title": "\u010cesko, USA, Finsko, \u0160v\u00e9dsko - vyhraj\u00ed sv\u00e9 z\u00e1pasy",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "4.50"
+            }
+        },
+        {
+            "title": "\u010cervenka R., Hriv\u00edk M., Eriksson Ek J., Innala J. - ka\u017ed\u00fd hr\u00e1\u010d z\u00edsk\u00e1 kanadsk\u00fd bod",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "7.50"
+            }
+        },
+        {
+            "title": "Kubal\u00edk D., Slafkovsk\u00fd J., Granlund Mikael - ka\u017ed\u00fd hr\u00e1\u010d d\u00e1 g\u00f3l",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "37.00"
+            }
+        },
+        {
+            "title": "\u010cesko, \u0160v\u00e9dsko, USA, Finsko - ka\u017ed\u00fd t\u00fdm d\u00e1 alespo\u0148 t\u0159i g\u00f3ly",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "3.25"
+            }
+        },
+        {
+            "title": "Finsko, USA, \u0160v\u00e9dsko - ka\u017ed\u00fd t\u00fdm vyhraje o 3 a v\u00edce g\u00f3l\u016f",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "6.55"
+            }
+        },
+        {
+            "title": "\u010cesko, USA, Finsko - ka\u017ed\u00fd z t\u00fdm\u016f vyhraje prvn\u00ed t\u0159etinu v z\u00e1pasu",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "8.00"
+            }
+        },
+        {
+            "title": "Pal\u00e1t O., Raymond Lucas - ka\u017ed\u00fd hr\u00e1\u010d d\u00e1 g\u00f3l",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "9.20"
+            }
+        },
+        {
+            "title": "Bogdan A., Sakkari M., Sabalenka A. - vyhraj\u00ed sv\u00e9 z\u00e1pasy dvouhry",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "3.45"
+            }
+        },
+        {
+            "title": "Rune H., Hurkacz H. - v z\u00e1pasu ka\u017ed\u00e9ho hr\u00e1\u010de bude hr\u00e1n tiebreak",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "3.75"
+            }
+        },
+        {
+            "title": "Begu I.C., Azarenka V., Svitolina E. - ka\u017ed\u00e1 hr\u00e1\u010dka vyhraje alespo\u0148 jeden set",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "6.10"
+            }
+        },
+        {
+            "title": "Boston, Dallas - ka\u017ed\u00fd t\u00fdm zaznamen\u00e1 alespo\u0148 109 bod\u016f",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "4.45"
+            }
+        },
+        {
+            "title": "Doncic L.(Dallas), Tatum J.(Boston) - ka\u017ed\u00fd hr\u00e1\u010d zaznamen\u00e1 alespo\u0148 30 bod\u016f",
+            "date": "Dnes",
+            "odds": {
+                "Ano": "3.75"
+            }
+        },
+        {
+            "title": "Aston Villa-Liverpool",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.75",
+                "F+4ako": "1.84",
+                "F+7ako": "1.96",
+                "F+11ako": "2.14"
+            }
+        },
+        {
+            "title": "Fiorentina-Monza",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.56",
+                "F+4ako": "1.64",
+                "F+7ako": "1.73",
+                "F+11ako": "1.87"
+            }
+        },
+        {
+            "title": "Barcelona-Real Sociedad",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.75",
+                "F+4ako": "1.84",
+                "F+7ako": "1.96",
+                "F+11ako": "2.14"
+            }
+        },
+        {
+            "title": "Club Brugge-St.Gilloise",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "2.15",
+                "F+4ako": "2.28",
+                "F+7ako": "2.47",
+                "F+11ako": "2.75"
+            }
+        },
+        {
+            "title": "R.Radom-Ruch Chorz\u00f3w",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "2.09",
+                "F+4ako": "2.22",
+                "F+7ako": "2.40",
+                "F+11ako": "2.65"
+            }
+        },
+        {
+            "title": "Miedz Legnica-Podbeskidzie",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.81",
+                "F+4ako": "1.91",
+                "F+7ako": "2.04",
+                "F+11ako": "2.22"
+            }
+        },
+        {
+            "title": "Pogon Siedlce-Jastrzebie",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.47",
+                "F+4ako": "1.53",
+                "F+7ako": "1.61",
+                "F+11ako": "1.74"
+            }
+        },
+        {
+            "title": "USA-Slovensko",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.34",
+                "F+4ako": "1.39",
+                "F+7ako": "1.46",
+                "F+11ako": "1.57"
+            }
+        },
+        {
+            "title": "Norsko-Finsko",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.16",
+                "F+4ako": "1.21",
+                "F+7ako": "1.26",
+                "F+11ako": "1.33"
+            }
+        },
+        {
+            "title": "N\u011bmecko-\u0160v\u00e9dsko",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.25",
+                "F+4ako": "1.30",
+                "F+7ako": "1.36",
+                "F+11ako": "1.45"
+            }
+        },
+        {
+            "title": "Soboleva A.K.-Bocchi E.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.02",
+                "F+4ako": "1.05",
+                "F+7ako": "1.09",
+                "F+11ako": "1.14"
+            }
+        },
+        {
+            "title": "Siskova A.-Colmegna M.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.55",
+                "F+4ako": "1.62",
+                "F+7ako": "1.71",
+                "F+11ako": "1.85"
+            }
+        },
+        {
+            "title": "Stearns Peyton-Ruggeri J.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.06",
+                "F+4ako": "1.09",
+                "F+7ako": "1.13",
+                "F+11ako": "1.19"
+            }
+        },
+        {
+            "title": "Gadecki O.-Lew Yan Foon A.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.27",
+                "F+4ako": "1.32",
+                "F+7ako": "1.38",
+                "F+11ako": "1.47"
+            }
+        },
+        {
+            "title": "Bogdan A.-Gracheva V.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.49",
+                "F+4ako": "1.56",
+                "F+7ako": "1.64",
+                "F+11ako": "1.77"
+            }
+        },
+        {
+            "title": "Gauff C.-Badosa P.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.53",
+                "F+4ako": "1.60",
+                "F+7ako": "1.68",
+                "F+11ako": "1.82"
+            }
+        },
+        {
+            "title": "Swiatek I.-Kerber A.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.03",
+                "F+4ako": "1.06",
+                "F+7ako": "1.10",
+                "F+11ako": "1.15"
+            }
+        },
+        {
+            "title": "Collins D.-Begu I.C.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.26",
+                "F+4ako": "1.31",
+                "F+7ako": "1.37",
+                "F+11ako": "1.46"
+            }
+        },
+        {
+            "title": "Tsitsipas S.-Norrie C.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.24",
+                "F+4ako": "1.29",
+                "F+7ako": "1.35",
+                "F+11ako": "1.43"
+            }
+        },
+        {
+            "title": "Hurkacz H.-Etcheverry T.M.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.51",
+                "F+4ako": "1.58",
+                "F+7ako": "1.66",
+                "F+11ako": "1.80"
+            }
+        },
+        {
+            "title": "Ajdukovic D.-Bourgue M.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.40",
+                "F+4ako": "1.46",
+                "F+7ako": "1.54",
+                "F+11ako": "1.65"
+            }
+        },
+        {
+            "title": "Zapata Miralles B.-Pilet C.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.01",
+                "F+4ako": "1.04",
+                "F+7ako": "1.08",
+                "F+11ako": "1.13"
+            }
+        },
+        {
+            "title": "Gigante M.-Bellezza Quarter G.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.01",
+                "F+4ako": "1.04",
+                "F+7ako": "1.08",
+                "F+11ako": "1.13"
+            }
+        },
+        {
+            "title": "Galfi D.-Schmiedlova A.K.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.54",
+                "F+4ako": "1.61",
+                "F+7ako": "1.70",
+                "F+11ako": "1.84"
+            }
+        },
+        {
+            "title": "Sonmez Z.-Bronzetti L.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.37",
+                "F+4ako": "1.42",
+                "F+7ako": "1.49",
+                "F+11ako": "1.60"
+            }
+        },
+        {
+            "title": "Ferro F.-Boisson L.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.36",
+                "F+4ako": "1.41",
+                "F+7ako": "1.48",
+                "F+11ako": "1.59"
+            }
+        },
+        {
+            "title": "Miyazaki Y.L.-Andreeva E.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.16",
+                "F+4ako": "1.21",
+                "F+7ako": "1.26",
+                "F+11ako": "1.33"
+            }
+        },
+        {
+            "title": "Sramkova R.-Ostapenko J.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.28",
+                "F+4ako": "1.33",
+                "F+7ako": "1.39",
+                "F+11ako": "1.48"
+            }
+        },
+        {
+            "title": "Svitolina E.-Sabalenka A.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.41",
+                "F+4ako": "1.48",
+                "F+7ako": "1.56",
+                "F+11ako": "1.67"
+            }
+        },
+        {
+            "title": "Muller A.-Rublev A.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.21",
+                "F+4ako": "1.26",
+                "F+7ako": "1.32",
+                "F+11ako": "1.39"
+            }
+        },
+        {
+            "title": "Napolitano S.-Jarry N.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.34",
+                "F+4ako": "1.39",
+                "F+7ako": "1.46",
+                "F+11ako": "1.57"
+            }
+        },
+        {
+            "title": "Baez S.-Rune H.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.47",
+                "F+4ako": "1.53",
+                "F+7ako": "1.61",
+                "F+11ako": "1.74"
+            }
+        },
+        {
+            "title": "Medjedovic H.-Medvedev D.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.38",
+                "F+4ako": "1.44",
+                "F+7ako": "1.51",
+                "F+11ako": "1.62"
+            }
+        },
+        {
+            "title": "Gea A.-Halys Q.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.42",
+                "F+4ako": "1.48",
+                "F+7ako": "1.56",
+                "F+11ako": "1.67"
+            }
+        },
+        {
+            "title": "Dussin L.-Guinard M.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.14",
+                "F+4ako": "1.20",
+                "F+7ako": "1.25",
+                "F+11ako": "1.32"
+            }
+        },
+        {
+            "title": "Wessels L.-Squire H.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.17",
+                "F+4ako": "1.22",
+                "F+7ako": "1.27",
+                "F+11ako": "1.34"
+            }
+        },
+        {
+            "title": "Spiridon D.C.-Pellegrino A.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.03",
+                "F+4ako": "1.06",
+                "F+7ako": "1.10",
+                "F+11ako": "1.15"
+            }
+        },
+        {
+            "title": "Hozumi E. / Ninomiya M.-Siniakova K. / Townsend T.",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.27",
+                "F+4ako": "1.32",
+                "F+7ako": "1.38",
+                "F+11ako": "1.47"
+            }
+        },
+        {
+            "title": "It\u00e1lie-Turecko",
+            "date": "Dnes",
+            "odds": {
+                "Favorit": "1.25",
+                "F+4ako": "1.30",
+                "F+7ako": "1.36",
+                "F+11ako": "1.45"
+            }
+        },
+        {
+            "title": "Olomouc B - Sparta Praha B",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.39",
+                "0": "3.65",
+                "2": "2.65"
+            }
+        },
+        {
+            "title": "Aston Villa - Liverpool",
+            "date": "Dnes",
+            "odds": {
+                "1": "3.85",
+                "0": "4.75",
+                "2": "1.75"
+            }
+        },
+        {
+            "title": "Lecce - Udinese",
+            "date": "Dnes",
+            "odds": {
+                "1": "3.05",
+                "0": "3.10",
+                "2": "2.64"
+            }
+        },
+        {
+            "title": "Fiorentina - Monza",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.56",
+                "0": "4.45",
+                "2": "5.70"
+            }
+        },
+        {
+            "title": "Barcelona - Real Sociedad",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.75",
+                "0": "3.90",
+                "2": "4.65"
+            }
+        },
+        {
+            "title": "Gimnasia LP - Velez Sarsfield",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.72",
+                "0": "3.00",
+                "2": "2.62"
+            }
+        },
+        {
+            "title": "Union Santa Fe - Banfield",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.44",
+                "0": "2.67",
+                "2": "3.35"
+            }
+        },
+        {
+            "title": "Club Brugge - St.Gilloise",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.15",
+                "0": "3.50",
+                "2": "3.20"
+            }
+        },
+        {
+            "title": "Universitario de Vinto - Royal Pari",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.45",
+                "0": "4.00",
+                "2": "5.80"
+            }
+        },
+        {
+            "title": "FK Tuzla City - Borac Banja Luka",
+            "date": "Dnes",
+            "odds": {
+                "1": "6.60",
+                "0": "4.20",
+                "2": "1.41"
+            }
+        },
+        {
+            "title": "GOSK Gabela - HSK Zrinjski Mostar",
+            "date": "Dnes",
+            "odds": {
+                "1": "7.60",
+                "0": "4.30",
+                "2": "1.36"
+            }
+        },
+        {
+            "title": "Sao Paulo SP - Fluminense RJ",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.80",
+                "0": "3.40",
+                "2": "4.60"
+            }
+        },
+        {
+            "title": "Etar V.Tarnovo - Lokomotiv 1929 Sofia",
+            "date": "Dnes",
+            "odds": {
+                "1": "4.60",
+                "0": "3.65",
+                "2": "1.67"
+            }
+        },
+        {
+            "title": "Botev Vratsa - Hebar Pazardzhik",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.83",
+                "0": "3.30",
+                "2": "4.20"
+            }
+        },
+        {
+            "title": "U.Catolica del Ecuador - T\u00e9cnico Un.",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.45",
+                "0": "4.15",
+                "2": "6.20"
+            }
+        },
+        {
+            "title": "NSI Runavik - 07 Vestur Sorvagur",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.57",
+                "0": "4.10",
+                "2": "4.80"
+            }
+        },
+        {
+            "title": "Skala IF - HB Torshavn",
+            "date": "Dnes",
+            "odds": {
+                "1": "9.00",
+                "0": "5.40",
+                "2": "1.26"
+            }
+        },
+        {
+            "title": "B36 Torshavn - EB Streymur",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.33",
+                "0": "5.20",
+                "2": "7.00"
+            }
+        },
+        {
+            "title": "Union La Calera - Univ.Chile",
+            "date": "Dnes",
+            "odds": {
+                "1": "4.60",
+                "0": "3.50",
+                "2": "1.74"
+            }
+        },
+        {
+            "title": "Zob Ahan - Paykan",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.65",
+                "0": "2.75",
+                "2": "2.90"
+            }
+        },
+        {
+            "title": "Esteghlal FC - Foolad Khuzestan",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.35",
+                "0": "4.30",
+                "2": "8.60"
+            }
+        },
+        {
+            "title": "Esteghlal Khuzestan - Nassaji Mazandaran",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.75",
+                "0": "2.45",
+                "2": "3.15"
+            }
+        },
+        {
+            "title": "Al Jahra - Al Shabab Kuwait",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.06",
+                "0": "3.40",
+                "2": "3.05"
+            }
+        },
+        {
+            "title": "Khaitan - Kazma",
+            "date": "Dnes",
+            "odds": {
+                "1": "4.60",
+                "0": "4.30",
+                "2": "1.51"
+            }
+        },
+        {
+            "title": "Niedercorn - Differdange",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.45",
+                "0": "3.30",
+                "2": "2.55"
+            }
+        },
+        {
+            "title": "Breda - Roda Kerkrade",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.39",
+                "0": "3.45",
+                "2": "2.85"
+            }
+        },
+        {
+            "title": "Club Guarani - General Caballero JLM",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.63",
+                "0": "4.00",
+                "2": "4.60"
+            }
+        },
+        {
+            "title": "Alianza Atletico - Cienciano",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.87",
+                "0": "3.35",
+                "2": "4.00"
+            }
+        },
+        {
+            "title": "Korhogo - Racing d Abidjan",
+            "date": "Dnes",
+            "odds": {
+                "1": "4.10",
+                "0": "3.15",
+                "2": "1.87"
+            }
+        },
+        {
+            "title": "Academie de FAD - SOL",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.90",
+                "0": "2.80",
+                "2": "2.50"
+            }
+        },
+        {
+            "title": "R.Radom - Ruch Chorz\u00f3w",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.09",
+                "0": "3.20",
+                "2": "3.30"
+            }
+        },
+        {
+            "title": "Farul Constanta - Univ.Craiova",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.44",
+                "0": "3.50",
+                "2": "2.58"
+            }
+        },
+        {
+            "title": "Emirates Club - Shabab Al Ahli",
+            "date": "Dnes",
+            "odds": {
+                "1": "7.40",
+                "0": "6.00",
+                "2": "1.25"
+            }
+        },
+        {
+            "title": "Al Nasr Dubai - Khorfakkan",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.44",
+                "0": "4.50",
+                "2": "5.40"
+            }
+        },
+        {
+            "title": "Al Wasl - Al Wahda (UAE)",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.56",
+                "0": "4.10",
+                "2": "4.70"
+            }
+        },
+        {
+            "title": "Stade de Mbour - Jaraaf",
+            "date": "Dnes",
+            "odds": {
+                "1": "3.05",
+                "0": "2.65",
+                "2": "2.48"
+            }
+        },
+        {
+            "title": "Generation Foot - Pikine",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.07",
+                "0": "2.75",
+                "2": "3.80"
+            }
+        },
+        {
+            "title": "Novi Pazar - Sp.Subotica",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.08",
+                "0": "3.20",
+                "2": "3.25"
+            }
+        },
+        {
+            "title": "Radni\u010dki Ni\u0161 - IMT Novi Beograd",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.21",
+                "0": "3.20",
+                "2": "2.95"
+            }
+        },
+        {
+            "title": "Javor Ivanjica - Vozdovac",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.20",
+                "0": "3.10",
+                "2": "3.10"
+            }
+        },
+        {
+            "title": "Zeleznicar Pancevo - Radnik Surdulica",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.32",
+                "0": "4.50",
+                "2": "8.00"
+            }
+        },
+        {
+            "title": "IFK G\u00f6teborg - Malm\u00f6 FF",
+            "date": "Dnes",
+            "odds": {
+                "1": "5.20",
+                "0": "3.80",
+                "2": "1.63"
+            }
+        },
+        {
+            "title": "Tanzania Prisons - Ihefu",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.26",
+                "0": "2.85",
+                "2": "3.30"
+            }
+        },
+        {
+            "title": "JKT Tanzania - Singida BS FC",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.24",
+                "0": "2.65",
+                "2": "3.60"
+            }
+        },
+        {
+            "title": "Lamphun Warrior - Uthai Thani",
+            "date": "Dnes",
+            "odds": {
+                "1": "1.81",
+                "0": "3.55",
+                "2": "3.75"
+            }
+        },
+        {
+            "title": "Kolos Kovalivka - LNZ Cherkasy",
+            "date": "Dnes",
+            "odds": {
+                "1": "2.25",
+                "0": "2.95",
+                "2": "3.35"
+            }
+        }
+    ]
+}
